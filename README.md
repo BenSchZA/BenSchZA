@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [cadCAD.education](https://cadcad.education)
+- 💬 Ask me about Systems Engineering
+- 🌱 I’m currently learning Rust, Machine Learning, all the buzz words
+- 📫 How to reach me: [bitsofether.com](https://bitsofether.com)
 
 <!--
 **BenSchZA/BenSchZA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
