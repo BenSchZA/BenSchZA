@@ -5,6 +5,14 @@
 - 🌱 I’m currently learning Rust, Machine Learning, all the buzz words
 - 📫 How to reach me: [bitsofether.com](https://bitsofether.com)
 
+My Stack (competent; implemented in production systems):
+- Most productive in: Elixir/Phoenix Framework
+- For datascience: Python
+- For robust systems & CLIs: Rust
+- For mobile applications: Android Native
+- For product development: React/Redux
+- For system infrastructure: Terraform, Kubernetes, Docker, Nix/NixOS
+
 <!--
 **BenSchZA/BenSchZA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
