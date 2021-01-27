@@ -10,7 +10,7 @@ My Stack (competent; implemented in production systems):
 - For datascience: Python
 - For robust systems & CLIs: Rust
 - For mobile applications: Android Native
-- For product development: React/Redux
+- For product development: React/Redux/NodeJS
 - For system infrastructure: Terraform, Kubernetes, Docker, Nix/NixOS
 
 <!--
