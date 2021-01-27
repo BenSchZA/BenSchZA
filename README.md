@@ -27,6 +27,7 @@ Projects & Teams:
 * [cadCAD Edu](https://cadcad.education/)
 * [Grassroots Economics](https://gitlab.com/grassrootseconomics)
 * [IXO World](https://github.com/BenSchZA/ixo-liquidity-mechanism)
+* [Linum Labs](https://linumlabs.com/)
 * [Molecule Protocol](https://github.com/BenSchZA/molecule-alpha)
 * [Protea Gather](https://github.com/ProteaNetwork/protea-gather)
 * [Rooster](https://github.com/BenSchZA/android-kotlin-alarm-clock)
