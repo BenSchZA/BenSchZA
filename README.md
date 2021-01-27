@@ -9,7 +9,7 @@ My Stack (competent; implemented in production systems):
 - Most productive in: Elixir/Phoenix Framework
 - For datascience: Python
 - For robust systems & CLIs: Rust
-- For mobile applications: Android Native
+- For mobile applications: Android Native/Kotlin
 - For product development: React/Redux/NodeJS/Typescript
 - For system infrastructure: Terraform, Kubernetes, Docker, Nix/NixOS
 
