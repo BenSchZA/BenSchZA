@@ -19,3 +19,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Projects & Teams:
+* [AlphaBond](https://www.alphabond.org/collaborate)
+* [Baleka](https://www.youtube.com/watch?v=sPJ2xJNLG1A) - Is a virtual model a suitable replacement for accurate dynamic modelling in complex robotic topologies?
+* [BlockScience](https://block.science/)
+* [cadCAD Edu](https://cadcad.education/)
+* [Grassroots Economics](https://gitlab.com/grassrootseconomics)
+* [IXO World](https://github.com/BenSchZA/ixo-liquidity-mechanism)
+* [Molecule Protocol](https://github.com/BenSchZA/molecule-alpha)
+* [Protea Gather](https://github.com/ProteaNetwork/protea-gather)
+* [Rooster](https://github.com/BenSchZA/android-kotlin-alarm-clock)
