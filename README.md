@@ -33,6 +33,7 @@ Projects & Teams:
 * [Baleka](https://www.youtube.com/watch?v=sPJ2xJNLG1A) - Is a virtual model a suitable replacement for accurate dynamic modelling in complex robotic topologies?
 * [BlockScience](https://block.science/)
 * [cadCAD Edu](https://cadcad.education/)
+* [cadCAD Hacks](https://github.com/BenSchZA/cadCAD-Hacks)
 * [Grassroots Economics](https://gitlab.com/grassrootseconomics)
 * [IXO World](https://github.com/BenSchZA/ixo-liquidity-mechanism)
 * [Linum Labs](https://linumlabs.com/)
