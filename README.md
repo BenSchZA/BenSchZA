@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [cadCAD.education](https://cadcad.education)
+- 🔭 I’m currently Head of Engineering at [CADLabs](https://CADLabs.org), and teaching modelling & systems engineering at [cadCAD Edu](https://cadcad.education/)
 - 💬 Ask me about Systems Engineering
+- ⭐ My favourite language is Elixir
 - 🌱 I’m currently learning Rust, Machine Learning, all the buzz words
 - 📫 How to reach me: [bitsofether.com](https://bitsofether.com)
 
@@ -32,6 +33,7 @@ Projects & Teams:
 * [AlphaBond](https://www.alphabond.org/collaborate)
 * [Baleka](https://www.youtube.com/watch?v=sPJ2xJNLG1A) - Is a virtual model a suitable replacement for accurate dynamic modelling in complex robotic topologies?
 * [BlockScience](https://block.science/)
+* [CADLabs](https://cadlabs.org/)
 * [cadCAD Edu](https://cadcad.education/)
 * [cadCAD Hacks](https://github.com/BenSchZA/cadCAD-Hacks)
 * [Grassroots Economics](https://gitlab.com/grassrootseconomics)
