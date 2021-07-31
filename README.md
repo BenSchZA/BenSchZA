@@ -35,7 +35,7 @@ Projects & Teams:
 * [BlockScience](https://block.science/)
 * [CADLabs](https://cadlabs.org/)
 * [cadCAD Edu](https://cadcad.education/)
-* [cadCAD Hacks](https://github.com/BenSchZA/cadCAD-Hacks)
+* [cadCAD Hacks](https://github.com/cadCAD-edu/cadCAD-Hacks)
 * [Grassroots Economics](https://gitlab.com/grassrootseconomics)
 * [IXO World](https://github.com/BenSchZA/ixo-liquidity-mechanism)
 * [Linum Labs](https://linumlabs.com/)
