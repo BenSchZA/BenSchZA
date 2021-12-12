@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Rust, Machine Learning, all the buzz words
 - 📫 How to reach me: [bitsofether.com](https://bitsofether.com)
 
-My Stack (competent; implemented in production systems):
+My ideal stack:
 - Most productive in: Elixir/Phoenix Framework
 - For datascience: Python
 - For robust systems & CLIs: Rust
