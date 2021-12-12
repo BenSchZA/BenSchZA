@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently Head of Engineering at [CADLabs](https://CADLabs.org), and teaching modelling & systems engineering at [cadCAD Edu](https://cadcad.education/)
+- 🔭 I’m currently Co-Founder & Head of Engineering at [CADLabs](https://CADLabs.org), and teaching modelling & systems engineering at [cadCAD Edu](https://cadcad.education/)
 - 💬 Ask me about Systems Engineering
 - ⭐ My favourite language is Elixir
 - 🌱 I’m currently learning Rust, Machine Learning, all the buzz words
