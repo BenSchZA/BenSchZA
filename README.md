@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently Co-Founder & Head of Engineering at [CADLabs](https://CADLabs.org), and teaching modelling & systems engineering at [cadCAD Edu](https://cadcad.education/)
+- 🎓 My mechatronics engineering thesis: [Baleka](https://www.youtube.com/watch?v=sPJ2xJNLG1A) - Is a virtual model a suitable replacement for accurate dynamic modelling in complex robotic topologies?
 - 💬 Ask me about Systems Engineering
 - ⭐ My favourite language is Elixir
 - 🌱 I’m currently learning Rust, Machine Learning, all the buzz words
@@ -30,14 +31,9 @@ Here are some ideas to get you started:
 -->
 
 Projects & Teams:
-* [AlphaBond](https://www.alphabond.org/collaborate)
-* [Baleka](https://www.youtube.com/watch?v=sPJ2xJNLG1A) - Is a virtual model a suitable replacement for accurate dynamic modelling in complex robotic topologies?
 * [BlockScience](https://block.science/)
 * [CADLabs](https://cadlabs.org/)
 * [cadCAD Edu](https://cadcad.education/)
-* [cadCAD Hacks](https://github.com/cadCAD-edu/cadCAD-Hacks)
-* [Grassroots Economics](https://gitlab.com/grassrootseconomics)
-* [IXO World](https://github.com/BenSchZA/ixo-liquidity-mechanism)
 * [Linum Labs](https://linumlabs.com/)
 * [Molecule Protocol](https://github.com/BenSchZA/molecule-alpha)
 * [Protea Gather](https://github.com/ProteaNetwork/protea-gather)
