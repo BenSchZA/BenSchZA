@@ -2,10 +2,9 @@
 
 - 🔭 I’m the Co-Founder & Head of Engineering at [CADLabs](https://CADLabs.org), and teaching modelling & systems engineering at [cadCAD Edu](https://cadcad.education/)
 - 🎓 My mechatronics engineering thesis: [Baleka](https://www.youtube.com/watch?v=sPJ2xJNLG1A) - Is a virtual model a suitable replacement for accurate dynamic modelling in complex robotic topologies?
-- 💬 Ask me about Systems Engineering
+- ✍️ I write about Systems Engineering at [systemsexplained.com](https://systemsexplained.com)
 - ⭐ My favourite language is Elixir
 - 🌱 I’m currently learning Rust, Machine Learning, all the buzz words
-- 📫 How to reach me: [bitsofether.com](https://bitsofether.com)
 
 My ideal stack:
 - Most productive in: Elixir/Phoenix Framework
