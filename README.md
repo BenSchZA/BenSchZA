@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently Co-Founder & Head of Engineering at [CADLabs](https://CADLabs.org), and teaching modelling & systems engineering at [cadCAD Edu](https://cadcad.education/)
+- 🔭 I’m the Co-Founder & Head of Engineering at [CADLabs](https://CADLabs.org), and teaching modelling & systems engineering at [cadCAD Edu](https://cadcad.education/)
 - 🎓 My mechatronics engineering thesis: [Baleka](https://www.youtube.com/watch?v=sPJ2xJNLG1A) - Is a virtual model a suitable replacement for accurate dynamic modelling in complex robotic topologies?
 - 💬 Ask me about Systems Engineering
 - ⭐ My favourite language is Elixir
