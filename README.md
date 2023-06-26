@@ -3,7 +3,7 @@
 - 🔭 I’m the Co-Founder & Head of Engineering at [CADLabs](https://CADLabs.org), and teaching modelling & systems engineering at [cadCAD Edu](https://cadcad.education/)
 - 🎓 My mechatronics engineering thesis: [Baleka](https://www.youtube.com/watch?v=sPJ2xJNLG1A) - Is a virtual model a suitable replacement for accurate dynamic modelling in complex robotic topologies?
 - ✍️ I write about Systems Engineering at [systemsexplained.com](https://systemsexplained.com)
-- ⭐ My favourite language is Elixir
+- ⭐ My favourite programming language is Elixir
 - 🌱 I’m currently learning Rust, Machine Learning, all the buzz words
 
 My ideal stack:
@@ -14,22 +14,7 @@ My ideal stack:
 - For product development: React/Redux/NodeJS/Typescript
 - For system infrastructure: Terraform, Kubernetes, Docker, Nix/NixOS
 
-<!--
-**BenSchZA/BenSchZA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Projects & Teams:
+Past Projects & Teams:
 * [BlockScience](https://block.science/)
 * [CADLabs](https://cadlabs.org/)
 * [cadCAD Edu](https://cadcad.education/)
