@@ -14,7 +14,7 @@ My ideal stack:
 - For product development: React/Redux/NodeJS/Typescript
 - For system infrastructure: Terraform, Kubernetes, Docker, Nix/NixOS
 
-Past Projects & Teams:
+Past projects & teams:
 * [BlockScience](https://block.science/)
 * [CADLabs](https://cadlabs.org/)
 * [cadCAD Edu](https://cadcad.education/)
